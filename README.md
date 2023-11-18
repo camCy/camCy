@@ -13,6 +13,6 @@ Skills: C++ / JAVA / REACT / JS / HTML / CSS / SQL / PHP / LINUX
 - 🔭 I’m currently working on Competitive programming and improving my logic skills. 
 - 🌱 I’m currently learning Software development engineering 
 
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/camCy) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/camilo-castañeda-yepes-a24a5628a/)  
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camCy)](https://github.com/anuraghazra/github-readme-stats)
