@@ -1,6 +1,5 @@
 <h1 align="center">Hola, mi nombre es Camilo Castañeda</h1>
-<!--<p><img align="center" src="https://i.pinimg.com/originals/99/cd/09/99cd0925c516b5d0a740dffd03c3e0df.gif" width="100%" height="50%" /></p>-->
-<p><img align="center" src="https://i.pinimg.com/originals/bb/5e/47/bb5e47498772c0628f6dc7f26a6af28c.gif" height="1020" width="720"/></p>
+<p><img align="center" src="https://i.pinimg.com/originals/7a/61/fe/7a61fe192013a896351c2a315238a36e.gif"/></p>
 
 <h3 align="center">Estoy en séptimo semestre de ingeniería de sistemas y telecomunicaciones en la Universidad Católica de Pereira</h3>
 
