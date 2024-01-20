@@ -1,6 +1,5 @@
 <h1 align="center">Hola, mi nombre es Camilo Castañeda</h1>
-()
-<p><img src="https://i.pinimg.com/originals/99/cd/09/99cd0925c516b5d0a740dffd03c3e0df.gif"/></p>
+<p><img src="https://i.pinimg.com/originals/99/cd/09/99cd0925c516b5d0a740dffd03c3e0df.gif" width="50%" height="50%" /></p>
 <h3 align="center">Estoy en séptimo semestre de ingeniería de sistemas y telecomunicaciones en la Universidad Católica de Pereira</h3>
 
 <h3 align="left">Connect with me:</h3>
