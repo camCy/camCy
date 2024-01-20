@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋🏻, mi nombre es Camilo Castañeda</h1>
 <p><img align="center" src="https://i.pinimg.com/originals/7a/61/fe/7a61fe192013a896351c2a315238a36e.gif"/></p>
 
-<h3 align="justify">Estoy en séptimo semestre de ingeniería de sistemas y telecomunicaciones en la Universidad Católica de Pereira <a href='https://emojitool.com/flag-for-colombia'>🇨🇴</a></h3>
+<h3 align="justify">Estoy en séptimo semestre de ingeniería de sistemas y telecomunicaciones en la Universidad Católica de Pereira &#x1F1E8;&#x1F1F4;></h3>
 <h3 align="justify">Miembro activo del semillero de programación competitiva _Coders_ </h3>
 
 <h3 align="left">Contacta conmigo:</h3>
