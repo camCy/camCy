@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋🏻, soy Camilo Castañeda</h1>
 
-<h3 align="justify">Actualmente me encuentro cursando séptimo semestre de <strong>ingeniería de sistemas y telecomunicaciones </strong> en la Universidad Católica de Pereira</h3>
+<h3 align="justify">Actualmente me encuentro cursando octavo semestre de <strong>ingeniería de sistemas y telecomunicaciones </strong> en la Universidad Católica de Pereira</h3>
 
 <h3 align="justify">Miembro activo del semillero de programación competitiva <strong>Coders</strong></h3>
 
