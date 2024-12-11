@@ -2,8 +2,8 @@
 
 <h3 align="justify">Me encuentro cursando noveno semestre de <strong>ingeniería de sistemas y telecomunicaciones </strong> en la Universidad Católica de Pereira.</h3>
 
-<h3 align="justify">Formo parte de un proyecto de investigación sobre mantenimiento predictivo con machine learning aplicado a la industria.
-Formé parte del semillero de programación competitiva <strong>Coders</strong>, participando en 2 ocaciones en la maratón nacional de programación.
+<h3 align="justify">Formo parte de un proyecto de investigación sobre mantenimiento predictivo con machine learning aplicado a la industria.</h3>
+<h3 align="justify">Formé parte del semillero de programación competitiva <strong>Coders</strong>, participando en 2 ocaciones en la maratón nacional de programación.
 </h3>
 
 <h3 align="left">Contacta conmigo:</h3>
