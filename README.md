@@ -1,18 +1,71 @@
-<h1 align="center">Hola 👋🏻, soy Camilo Castañeda</h1>
+<h1 align="center">Hola, soy Camilo Castañeda <img align="center" height="70px" width="70px" src="https://i.ibb.co/QvcZz3qY/gk-1.gif"></h1>
 
-<h3 align="justify">Me encuentro cursando noveno semestre de <strong>ingeniería de sistemas y telecomunicaciones </strong> en la Universidad Católica de Pereira.</h3>
+<h3 align="justify">Estudiante de noveno semestre de <strong>ingeniería de Sistemas y Telecomunicaciones </strong> en la Universidad Católica de Pereira.</h3>
 
-<h3 align="justify">Formo parte de un proyecto de investigación sobre mantenimiento predictivo con machine learning aplicado a la industria.</h3>
-<h3 align="justify">Formé parte del semillero de programación competitiva <strong>Coders</strong>, participando en 2 ocaciones en la maratón nacional de programación.
+<h3 align="justify">:book: <b>Residente en linea de investigación:</b> Formo parte de un proyecto de investigación sobre mantenimiento predictivo con Machine Learning aplicado a la industria.</h3>
+<h3 align="justify">:computer: <b>Programación Competitiva:</b> Formé parte del semillero de programación competitiva <strong>Coders</strong>, participando en 2  maratones nacionales de programación.
 </h3>
-
 <h3 align="left">Contacta conmigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/www.linkedin.com/in/camilo-castañeda-yepes-a24a5628a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/www.linkedin.com/in/camilo-castañeda-yepes-a24a5628a/" height="30" width="40" /></a>
-<a href="https://twitter.com/c4milo_cy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="c4milo_cy" height="30" width="40" /></a>
+<br>
+<br>
+
+<div align="Center">
+<h1>Skills</h1>
+</div>
+
+<div align="Center">
+
+| Programming | Others |
+| ------------- | ------------- |
+| <img src="https://skillicons.dev/icons?i=cpp,py,java,mysql,git,js,angular,html,css,aws,php"/> | <img src="https://skillicons.dev/icons?i=neovim,flask,github,vscode,ps"/> |
+
+</div>
+<br>
+<br>
 
 
-<h3 align="left">Skills:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=camCy&show_icons=true&locale=en&layout=compact" alt="camcy" /></p>
+<div align="Center">
+<h1>Operating Systems</h1>
+
+<img align="Center" src="https://skillicons.dev/icons?i=windows,debian,linux,arch"/>
+
+</div>
+<br>
+<br>
+<div align="Center">
+
+| Snake Eating Contributions in the last year |
+| ------------------------------------------ |
+| [![snakkeee](https://github.com/user-attachments/assets/767354e9-fe1e-4009-b421-2f49388bfda5)](https://github.com/camCy) | 
+
+</div>  
+
+<div align="Center">
+
+<details> 
+  <summary>💻 GitHub Profile Stats</summary>
+  <div>
+    <h2 align="center"> Github stats </h2>
+      <br/>
+<div align="Center">
+
+| camCy's Stats | Ultimate Streak |
+| ------------- | ------------- |
+| ![camCy Stats](https://github-readme-stats.vercel.app/api?username=camCy&theme=onedark&show_icons=true&hide_border=true&count_private=true)  | ![camCy's Streak](https://github-readme-streak-stats.herokuapp.com/?user=camCy&theme=onedark&hide_border=true) 
+
+| Most Lang |
+| ----------|
+| ![camCy Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=camCy&theme=onedark&show_icons=true&hide_border=true&layout=compact) |
+
+</div>
+</details>
+
+</div>
+</details>
+
+<div align="center">
+<img align="center" height="70px" width="70px" src="https://c.tenor.com/cXlrPENTVkEAAAAi/chika-dance.gif">
+</div>
