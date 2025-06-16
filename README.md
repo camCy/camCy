@@ -1,6 +1,6 @@
 <h1 align="center">Hola, soy Camilo Castañeda <img align="center" height="70px" width="70px" src="https://i.ibb.co/QvcZz3qY/gk-1.gif"></h1>
 
-<h3 align="justify">Estudiante de noveno semestre de <strong>ingeniería de Sistemas y Telecomunicaciones </strong> en la Universidad Católica de Pereira.</h3>
+<h3 align="justify">Estudiante de último semestre de <strong>ingeniería de Sistemas y Telecomunicaciones </strong> en la Universidad Católica de Pereira.</h3>
 
 <h3 align="justify">:book: <b>Residente en linea de investigación:</b> Formo parte de un proyecto de investigación sobre mantenimiento predictivo con Machine Learning aplicado a la industria.</h3>
 <h3 align="justify">:computer: <b>Programación Competitiva:</b> Formé parte del semillero de programación competitiva <strong>Coders</strong>, participando en 2  maratones nacionales de programación.
